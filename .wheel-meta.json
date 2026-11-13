@@ -1,0 +1,22 @@
+{
+  "wheel_id": 880,
+  "structure": "umbrella",
+  "slug": "retainingwallgoldcoast-157",
+  "project": "retaining-walls-gold-coast-myths-b904a3aca54bd4bd7a0d490ad0ab6f",
+  "parent_t1_ref": "retainingwallgoldcoast-013",
+  "node_role": "buffer",
+  "money_target": "retainingwallgoldcoast.com.au",
+  "primary_kw": "retaining walls gold coast myths",
+  "intended_url": "http://retaining-walls-gold-coast-myths-b904a3aca54bd4bd7a0d490ad0ab6f.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "9b793acb9486b645",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/retaining-walls-gold-coast/",
+      "anchor": "Retaining Walls Gold Coast: A Practical Site Planning Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
